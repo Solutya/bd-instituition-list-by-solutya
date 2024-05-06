@@ -1,4 +1,3 @@
-// index.js
 
 const data = require("./data/bd_schoolName_data.json");
 
