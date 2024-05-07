@@ -1,0 +1,650 @@
+[
+  {
+    "name": "North South University",
+    "shortName": "NSU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "University of Science & Technology Chittagong",
+    "shortName": "USTC",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Independent University, Bangladesh",
+    "shortName": "IUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Central Women's University",
+    "shortName": "CWU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "International University of Business Agriculture & Technology",
+    "shortName": "IUBAT",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "International Islamic University Chittagong",
+    "shortName": "IIUC",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Ahsanullah University of Science and Technology",
+    "shortName": "AUST",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "American International University-Bangladesh",
+    "shortName": "AIUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "East West University",
+    "shortName": "EWU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "University of Asia Pacific",
+    "shortName": "UAP",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Gono Bishwabidyalay",
+    "shortName": "GB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "The People's University of Bangladesh",
+    "shortName": "PUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Asian University of Bangladesh",
+    "shortName": "AUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Dhaka International University",
+    "shortName": "DIU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Manarat International University",
+    "shortName": "MIU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "BRAC University",
+    "shortName": "BRACU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Bangladesh University",
+    "shortName": "BU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Leading University",
+    "shortName": "LU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "BGC Trust University Bangladesh",
+    "shortName": "BGCTUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Sylhet International University",
+    "shortName": "SIU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "University of Development Alternative",
+    "shortName": "UODA",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Premier University",
+    "shortName": "PU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Southeast University",
+    "shortName": "SEU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Daffodil International University",
+    "shortName": "DIU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Stamford University Bangladesh",
+    "shortName": "SUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "State University of Bangladesh",
+    "shortName": "SUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "City University",
+    "shortName": "CU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Prime University",
+    "shortName": "PU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Northern University Bangladesh",
+    "shortName": "NUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Southern University Bangladesh",
+    "shortName": "SUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Green University of Bangladesh",
+    "shortName": "GUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Pundra University of Science & Technology",
+    "shortName": "PUST",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "World University of Bangladesh",
+    "shortName": "WUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Shanto-Mariam University of Creative Technology",
+    "shortName": "SMUCT",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "The Millennium University",
+    "shortName": "TMU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Eastern University",
+    "shortName": "EU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Metropolitan University",
+    "shortName": "MU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Uttara University",
+    "shortName": "UU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "United International University",
+    "shortName": "UIU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "University of South Asia",
+    "shortName": "USA",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Victoria University of Bangladesh",
+    "shortName": "VUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Bangladesh University of Business & Technology",
+    "shortName": "BUBT",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Presidency University",
+    "shortName": "PU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "University of Information Technology & Sciences",
+    "shortName": "UITS",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Primeasia University",
+    "shortName": "PAU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Royal University of Dhaka",
+    "shortName": "RUD",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "University of Liberal Arts Bangladesh",
+    "shortName": "ULAB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Atish Dipankar University of Science & Technology",
+    "shortName": "ADUST",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Bangladesh Islami University",
+    "shortName": "BIU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "ASA University Bangladesh",
+    "shortName": "ASAUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "East Delta University",
+    "shortName": "EDU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "European University of Bangladesh",
+    "shortName": "EUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Varendra University",
+    "shortName": "VU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Hamdard University Bangladesh",
+    "shortName": "HUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "BGMEA University of Fashion & Technology(BUFT)",
+    "shortName": "BUFT",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "North East University Bangladesh",
+    "shortName": "NEUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "First Capital University of Bangladesh",
+    "shortName": "FCUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Ishakha International University, Bangladesh",
+    "shortName": "IIUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Z.H Sikder University of Science & Technology",
+    "shortName": "ZHSUST",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Exim Bank Agricultural University, Bangladesh",
+    "shortName": "EBAUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "North Western University",
+    "shortName": "NWU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Khwaja Yunus Ali University",
+    "shortName": "KYAU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Sonargaon University",
+    "shortName": "SU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Feni University",
+    "shortName": "FU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Britannia University",
+    "shortName": "BU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Port City International University",
+    "shortName": "PCIU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Bangladesh University of Health Sciences",
+    "shortName": "BUHS",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Chittagong Independent University",
+    "shortName": "CIU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Notre Dame University Bangladesh",
+    "shortName": "NDUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Times University, Bangladesh",
+    "shortName": "TUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "North Bengal International University",
+    "shortName": "NBIU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Fareast International University",
+    "shortName": "FIU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Rajshahi Science & Technology University (RSTU)",
+    "shortName": "RSTU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Sheikh Fazilatunnesa Mujib University",
+    "shortName": "SFMU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Cox's Bazar International University",
+    "shortName": "CBIU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Ranada Prasad Shaha University",
+    "shortName": "RPSU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "German University Bangladesh",
+    "shortName": "GUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Global University Bangladesh",
+    "shortName": "GUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "CCN University of Science & Technology",
+    "shortName": "CCNUST",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Bangladesh Army University of Science and Technology(BAUST), Saidpur",
+    "shortName": "BAUST",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Bangladesh Army University of Engineering and Technology (BAUET), Qadirabad",
+    "shortName": "BAUET",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Bangladesh Army International University of Science & Technology(BAIUST) ,Comilla",
+    "shortName": "BAIUST",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "The International University of Scholars",
+    "shortName": "IUS",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Canadian University of Bangladesh",
+    "shortName": "CUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "N.P.I University of Bangladesh",
+    "shortName": "NPIUB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Northern University of Business & Technology, Khulna",
+    "shortName": "NUBTK",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Rabindra Maitree University, Kushtia",
+    "shortName": "RMUK",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "University of Creative Technology, Chittagong",
+    "shortName": "UCTC",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Central University of Science and Technology",
+    "shortName": "CUST",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Tagore University of Creative Arts, Uttara, Dhaka, Bangladesh",
+    "shortName": "TUCA",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "University of Global Village",
+    "shortName": "UGV",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Rupayan A.K.M Shamsuzzoha University",
+    "shortName": "RAKMSU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Anwer Khan Modern University",
+    "shortName": "AKMU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "ZNRF University of Management Sciences",
+    "shortName": "ZNRFUMS",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Ahsania Mission University of Science and Technology",
+    "shortName": "AMUST",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Khulna Khan Bahadur Ahsanullah University",
+    "shortName": "KKBAU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Bandarban University",
+    "shortName": "BU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Shah Makhdum Management University, Rajshahi",
+    "shortName": "SMMUR",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Trust University, Barishal",
+    "shortName": "TU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "International Standard University",
+    "shortName": "ISU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "University of Brahmanbaria",
+    "shortName": "UOB",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "University of Skill Enrichment and Technology",
+    "shortName": "USET",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Microland University of Science and Technology",
+    "shortName": "MUST",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "R.T.M Al-Kabir Technical University",
+    "shortName": "RTMAKTU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Sheikh Hasina University of Science and Technology",
+    "shortName": "SHUST",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "IBAIS University",
+    "shortName": "IBAISU",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "The University of Comilla",
+    "shortName": "TUC",
+    "institutionType": "university",
+    "category": "private"
+  },
+  {
+    "name": "Queens University",
+    "shortName": "QU",
+    "institutionType": "university",
+    "category": "private"
+  }
+]

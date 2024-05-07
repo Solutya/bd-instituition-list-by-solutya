@@ -1,0 +1,302 @@
+[
+    {
+        "shortName": "DU",
+        "name": "University of Dhaka",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "RU",
+        "name": "University of Rajshahi",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BAU",
+        "name": "Bangladesh Agricultural University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BUET",
+        "name": "Bangladesh University of Engineering & Technology",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "CU",
+        "name": "University of Chittagong",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "JU",
+        "name": "Jahangirnagar University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "IU",
+        "name": "Islamic University, Bangladesh",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "SUST",
+        "name": "Shahjalal University of Science & Technology",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "KU",
+        "name": "Khulna University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "NU",
+        "name": "National University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BOU",
+        "name": "Bangladesh Open University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BSMMU",
+        "name": "Bangabandhu Sheikh Mujib Medical University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BSMRAU",
+        "name": "Bangabandhu Sheikh Mujibur Rahman Agricultural University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "HSTU",
+        "name": "Hajee Mohammad Danesh Science & Technology University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "MBSTU",
+        "name": "Mawlana Bhashani Science & Technology University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "PSTU",
+        "name": "Patuakhali Science And Technology University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "SAU",
+        "name": "Sher-e-Bangla Agricultural University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "CUET",
+        "name": "Chittagong University of Engineering & Technology",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "RUET",
+        "name": "Rajshahi University of Engineering & Technology",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "KUET",
+        "name": "Khulna University of Engineering & Technology",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "DUET",
+        "name": "Dhaka University of Engineering & Technology",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "NSTU",
+        "name": "Noakhali Science & Technology University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "JnU",
+        "name": "Jagannath University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "CoU",
+        "name": "Comilla University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "JKKNIU",
+        "name": "Jatiya Kabi Kazi Nazrul Islam University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "CVASU",
+        "name": "Chittagong Veterinary and Animal Sciences University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "SAU",
+        "name": "Sylhet Agricultural University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "JUST",
+        "name": "Jessore University of Science & Technology",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "PUST",
+        "name": "Pabna University of Science and Technology",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BRUR",
+        "name": "Begum Rokeya University, Rangpur",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BUP",
+        "name": "Bangladesh University of Professionals",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BSMRSTU",
+        "name": "Bangabandhu Sheikh Mujibur Rahman Science & Technology University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BUTEX",
+        "name": "Bangladesh University of Textiles",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BU",
+        "name": "University of Barishal",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "RMSTU",
+        "name": "Rangamati Science and Technology University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BSMRMU",
+        "name": "Bangabandhu Sheikh Mujibur Rahman Maritime University, Bangladesh",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "IAU",
+        "name": "Islamic Arabic University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "CMU",
+        "name": "Chittagong Medical University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "RMU",
+        "name": "Rajshahi Medical University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "RUB",
+        "name": "Rabindra University, Bangladesh",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BDU",
+        "name": "Bangabandhu Sheikh Mujibur Rahman Digital University, Bangladesh",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "SHU",
+        "name": "Sheikh Hasina University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "KAU",
+        "name": "Khulna Agricultural University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BSFMSTU",
+        "name": "Bangamata Sheikh Fojilatunnesa Mujib Science and Technology University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "SyMU",
+        "name": "Sylhet Medical University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BSMRAAU",
+        "name": "Bangabandhu Sheikh Mujibur Rahman Aviation And Aerospace University (BSMRAAU)",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "CSTU",
+        "name": "Chandpur Science and Technology University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "BSMRU",
+        "name": "Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "HAU",
+        "name": "Hobiganj Agricultural University",
+        "institutionType": "university",
+        "category": "public"
+    },
+    {
+        "shortName": "SHMU",
+        "name": "Sheikh Hasina Medical University, Khulna",
+        "institutionType": "university",
+        "category": "public"
+    }
+]

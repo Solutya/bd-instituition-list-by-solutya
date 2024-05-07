@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Dhaka Dental College, Mirpur-14, Dhaka",
+    "shortName": "DDC",
+    "institutionType": "medical",
+    "category": "public",
+    "department": "dental"
+  },
+  {
+    "name": "Chittagong Medical College Dental Unit, Chittagong",
+    "shortName": "CMCDU",
+    "institutionType": "medical",
+    "category": "public",
+    "department": "dental"
+  },
+  {
+    "name": "Rajshahi Medical College Dental Unit, Rajshahi",
+    "shortName": "RMCDU",
+    "institutionType": "medical",
+    "category": "public",
+    "department": "dental"
+  },
+  {
+    "name": "Shaheed Shuhrawardhy Medical College Dental Unit, Dhaka",
+    "shortName": "SSMCDU",
+    "institutionType": "medical",
+    "category": "public",
+    "department": "dental"
+  },
+  {
+    "name": "Sir Salimullah Medical College Dental Unit, Dhaka",
+    "shortName": "SSMCDU",
+    "institutionType": "medical",
+    "category": "public",
+    "department": "dental"
+  },
+  {
+    "name": "Mymensingh Medical College Dental Unit, Mymensingh",
+    "shortName": "MMCDU",
+    "institutionType": "medical",
+    "category": "public",
+    "department": "dental"
+  },
+  {
+    "name": "M.A.G. Osmani Medical College Dental Unit, Sylhet",
+    "shortName": "MOMCDU",
+    "institutionType": "medical",
+    "category": "public",
+    "department": "dental"
+  },
+  {
+    "name": "Sher-e-Bangla Medical College Dental Unit, Barishal",
+    "shortName": "SBMCDU",
+    "institutionType": "medical",
+    "category": "public",
+    "department": "dental"
+  },
+  {
+    "name": "Rangpur Medical College Dental Unit, Rangpur",
+    "shortName": "RMCDU",
+    "institutionType": "medical",
+    "category": "public",
+    "department": "dental"
+  }
+]

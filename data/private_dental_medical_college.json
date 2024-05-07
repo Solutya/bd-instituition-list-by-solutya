@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Pioneer Dental College, Dhaka",
+    "shortName": "PDC",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "University Dental College, Dhaka",
+    "shortName": "UDC",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Bangladesh Dental College, Dhaka",
+    "shortName": "BDC",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "City Dental College, Dhaka",
+    "shortName": "CDC",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Sapporo Dental College, Dhaka",
+    "shortName": "SDC",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Chittagong International Dental College, Chittagong",
+    "shortName": "CIDC",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Rangpur Dental College, Rangpur",
+    "shortName": "RDC",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Update Dental College, Dhaka",
+    "shortName": "UDC",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Udayan Dental College, Rajshahi",
+    "shortName": "UDC",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Shaphana Women Dental College, Dhaka",
+    "shortName": "SWDC",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Mandi Dental College, Dhaka",
+    "shortName": "MDC",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Sylhet Central Dental College, Sylhet",
+    "shortName": "SCDC",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Samaj Vittic Medical College Dental Unit, Dhaka",
+    "shortName": "SVMCDU",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Marks Medical College Dental Unit, Dhaka",
+    "shortName": "MMCDU",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "MH Samorita Medical College Dental Unit, Dhaka",
+    "shortName": "MHSMCDU",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Kumudini Medical College Dental Unit, Tangail",
+    "shortName": "KMCDU",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Holy Family Red Crescent Medical College Dental Unit, Dhaka",
+    "shortName": "HFRCMCDU",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "TMSS-Bogra Medical College Dental Unit",
+    "shortName": "TMSS-BMCDU",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Dhaka Community Medical College Dental Unit, Dhaka",
+    "shortName": "DCMC",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Community Based Medical College Dental Unit, Mymensingh",
+    "shortName": "CBMCDU",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Dhaka National Medical College Dental Unit, Dhaka",
+    "shortName": "DNMCDU",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Delta Medical College Dental Unit, Dhaka",
+    "shortName": "DMCDU",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Islami Bank Medical College Dental Unit, Rajshahi",
+    "shortName": "IBMCDU",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "North East Medical College Dental Unit, Sylhet",
+    "shortName": "NEMCDU",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Ibrahim Medical College Dental Unit",
+    "shortName": "IMCDU",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Khawja Yunus Ali Medical College Dental Unit, Sirajganj",
+    "shortName": "KYAMCDU",
+    "institutionType": "medical",
+    "category": "private",
+    "department": "dental"
+  }
+]
