@@ -1,6 +1,6 @@
 
 const banSchoolData = require("./data/bd_schoolName_data.json");
- const collegeData = require("./data/bd_collegeName_data.json")
+const collegeData = require("./data/bd_collegeName_data.json")
 const madrashaData = require("./data/bd_madrashaName_data.json")
 const govtUniData = require("./data/public_Uni_data.json")
 const engSchoolData = require("./data/english_medium_data.json")
@@ -13,56 +13,28 @@ const pvtUniData = require('./data/private_Uni_data.json')
 
 //All school (eng-ban)
 function getAllSchools() {
-  return [banSchoolData, engSchoolData];
+  return [banSchoolData, engSchoolData, madrashaData];
+}
+
+function getAllCollege(){
+  return [collegeData]
 }
 function getAllInstitute(){
-   return [banSchoolData,engSchoolData, madrashaData, collegeData, govtUniData, govtMediData, govtDentData, pvtUniData, pvtMediData, pvtDentData]
+   return [banSchoolData,engSchoolData, madrashaData, collegeData, govtUniData, govtDentData, govtMediData, pvtUniData, pvtMediData, pvtDentData]
 }
 
-function getAllInstituteName(){
-  const data = [banSchoolData,engSchoolData, madrashaData, collegeData, govtUniData, govtMediData, govtDentData, pvtUniData, pvtMediData, pvtDentData]
-  const allNames = [];
-
-  data.forEach(dataset => {
-    dataset.forEach(item => {
-      if (item.name) {
-        allNames.push(item.name);
-      }
-    });
-  });
-
-  return allNames;
-
- }
+function getAllInstituteName() {
+  return getAllInstitute().flatMap(dataset => dataset.map(item => item.name)).filter(name => name);
+}
 
  function getFilterData(key,type){
-   console.log(key,type)
-   const banSchool= banSchoolData.filter((institute)=> institute.key === type);
-   const engSchool = engSchoolData.filter((institute)=> institute.key === type);
-   const college = collegeData.filter((institute)=> institute.key === type);
-   const madrasa = madrashaData.filter((institute)=> institute.key === type);
-   const govtUni = govtUniData.filter((institute)=> institute.key === type);
-   const govtMedi = govtMediData.filter((institute)=> institute.key === type);
-   const govtDent = govtDentData.filter((institute)=> institute.key === type);
-   const pvtUni = pvtUniData.filter((institute)=> institute.key === type);
-   const pvtMedi = pvtMediData.filter((institute)=> institute.key === type);
-   const pvtDent = pvtDentData.filter((institute)=> institute.key === type);
+   return  getAllInstitute().flatMap(institute=> institute.filter(item => item[key] === type));
 
-   return [...banSchool, ...engSchool,...college,...madrasa,...govtUni,...govtMedi,...govtDent,...pvtUni,...pvtMedi,...pvtDent].filter(institute => institute !== undefined)
+   // return [institute].filter(institute => institute !== undefined)
  }
  function getAllInstituteByType(type) {
-   const banSchool= banSchoolData.filter((institute)=> institute.institutionType === type);
-   const engSchool = engSchoolData.filter((institute)=> institute.institutionType === type);
-   const college = collegeData.filter((institute)=> institute.institutionType === type);
-   const madrasa = madrashaData.filter((institute)=> institute.institutionType === type);
-   const govtUni = govtUniData.filter((institute)=> institute.institutionType === type);
-   const govtMedi = govtMediData.filter((institute)=> institute.institutionType === type);
-   const govtDent = govtDentData.filter((institute)=> institute.institutionType === type);
-   const pvtUni = pvtUniData.filter((institute)=> institute.institutionType === type);
-   const pvtMedi = pvtMediData.filter((institute)=> institute.institutionType === type);
-   const pvtDent = pvtDentData.filter((institute)=> institute.institutionType === type);
-
-   return [...banSchool, ...engSchool,...college,...madrasa,...govtUni,...govtMedi,...govtDent,...pvtUni,...pvtMedi,...pvtDent].filter(institute => institute !== undefined)
+   return  getFilterData('institutionType', type);
+   // return data.map(item => item)
  }
 
  function getAllInstituteNameByType(type){
@@ -74,67 +46,49 @@ function getAllInstituteName(){
  }
 
 function getAllSchoolNames() {
-  const banSchoolNames = banSchoolData.map((school) => school.name);
-  const engSchoolNames = engSchoolData.map((school) => school.name);
+  const allNames = getAllSchools().flatMap(school => school.map(item =>item.name));
+  return allNames.filter(name => name)
 
-  return [...banSchoolNames, ...engSchoolNames];
 }
 
 function getAllSchoolEiins() {
-  const banSchoolEiins = banSchoolData.map((school)=> school.eiin);
-  const engSchoolEiins = engSchoolData.map((school)=> school.eiin);
-
-  return [...banSchoolEiins, ...engSchoolEiins]
+  const allEiins = getAllSchools().flatMap(school => school.map(item => item.eiin))
+  return allEiins.filter(eiin => eiin)
 }
 
 function getAllSchoolByVersion(version) {
-  const banSchool= banSchoolData.filter((school)=> school.version === version);
-  const engSchool = engSchoolData.filter((school)=> school.version === version);
-
-  return [...banSchool, ...engSchool].filter(school => school !== undefined)
+  const filterSchool = getAllSchools().flatMap(school => school.filter(item => item.version === version))
+  return filterSchool.filter(school => school !== undefined)
 }
 
 function getAllNameSchoolByVersion(version) {
-  const banSchool= banSchoolData.filter((school)=> school.version === version).map((school)=> school.name);
-  const engSchool = engSchoolData.filter((school)=> school.version === version).map((school)=> school.name);
-
-  return [...banSchool, ...engSchool].filter(school => school !== undefined)
+  const filterSchool = getAllSchools().flatMap(school => school.filter(item => item.version === version).map((school)=> school.name))
+  return filterSchool.filter(school => school !== undefined)
 }
 
 function getAllSchoolEiinByVersion(version) {
-  const banSchool= banSchoolData.filter((school)=> school.version === version).map((school)=> school.eiin);
-  const engSchool = engSchoolData.filter((school)=> school.version === version).map((school)=> school.eiin);
-
-  return [...banSchool, ...engSchool].filter(school => school !== undefined)
+  const filterSchool = getAllSchools().flatMap(school => school.filter(item => item.version === version).map((school)=> school.eiin))
+  return filterSchool.filter(school => school !== undefined)
 }
 //
 function getSchoolByEiin(eiin) {
-  const banSchoolName = banSchoolData.find((school) => school.eiin === eiin);
-  const engSchoolName = engSchoolData.find((school) => school.eiin === eiin)
-
-  return [banSchoolName, engSchoolName].filter(school => school !== undefined);
+  const filterSchool = getAllSchools().flatMap(school => school.filter(item => item.eiin === eiin));
+  return filterSchool.filter(school => school !==undefined)
 }
 
 function getSchoolNameByEiin(eiin) {
-  const banSchool = banSchoolData.find((school) => school.eiin === eiin);
-  const engSchool = engSchoolData.find((school) => school.eiin === eiin);
-
-  const data = [banSchool, engSchool].filter(school => school !== undefined);
-  return data[0].name
- }
+  const filterSchool = getAllSchools().flatMap(school => school.filter(item => item.eiin === eiin));
+  const sclData = filterSchool.map(school => school.name)
+  return sclData.filter(school => school !==undefined)
+}
 
 
 
 function getSchoolByName(name) {
-  const banSchoolName = banSchoolData.find((school) => school.name === name);
-  const engSchoolName = engSchoolData.find((school) => school.name === name)
-
-  return [banSchoolName, engSchoolName].filter(school => school !== undefined);
+  const filterSchool = getAllSchools().flatMap(school => school.filter(item => item.name === name));
+  return filterSchool.filter(school => school !==undefined)
 }
 
-function ge() {
-
-}
 
 
 
@@ -186,6 +140,7 @@ function ge() {
 
 module.exports = {
   getAllSchools,
+  getAllCollege,
   getAllSchoolNames,
   getAllSchoolEiins,
   getSchoolByEiin,
@@ -209,7 +164,6 @@ module.exports = {
   // getSchoolNameByEiin,
   // getSchoolByName,
   // getNameByType,
-  getFilterData
   // getAllCollege,
   // getAllCollegeName
 };
