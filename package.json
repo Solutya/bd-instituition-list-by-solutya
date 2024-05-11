@@ -1,5 +1,5 @@
 {
-  "name": "BD-Instituition-List-Package",
+  "name": "bd-instituition-list@solutya",
   "version": "1.0.0",
   "description": "This package includes all bangladeshi educational institution list (School, College, Madrasa, University)",
   "main": "index.js",
