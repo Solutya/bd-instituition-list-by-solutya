@@ -20,7 +20,8 @@
     "school",
     "react-component",
     "json-data",
-    "schoolName"
+    "schoolName",
+    "bd-madrasa-list"
   ],
   "author": "Solutya Pvt Ltd, Abdullah Ibne Ali, Rashedul Islam Rajon",
   "license": "MIT",
