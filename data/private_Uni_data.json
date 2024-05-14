@@ -758,665 +758,665 @@
   {
     "name": "Bangladesh Medical College, Dhanmondi, Dhaka",
     "shortName": "BMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Samaj Vittic Medical College, Savar Cantt, Dhaka",
     "shortName": "SVMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Institute of Applied Health Sciences, Chittagong",
     "shortName": "IAHS",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Jahurul Islam Medical College, Kishoreganj",
     "shortName": "JIMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Medical College for Women & Hospital, Uttara, Dhaka",
     "shortName": "MCWH",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Z.H. Sikder Women Medical College, Dhanmondi, Dhaka",
     "shortName": "ZHSWMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Dhaka National Medical College, Johnson Road, Dhaka",
     "shortName": "DNMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Community Based Medical College, Mymensingh",
     "shortName": "CBMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Jalalabad Ragib Rabeya Medical College, Sylhet",
     "shortName": "JRRMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Shaheed Monsur Ali Medical College, Uttara, Dhaka",
     "shortName": "SMAMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "North East Medical College, Sylhet",
     "shortName": "NEMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Holy Family Red Crescent Medical College, Eskaton Garden Road, Dhaka",
     "shortName": "HFRCMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "International Medical College, Gazipur",
     "shortName": "IMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "North Bengal Medical College, Sirajganj",
     "shortName": "NBMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "East West Medical College, Dhaka",
     "shortName": "EWMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Kumudini Women's Medical College, Tangail",
     "shortName": "KWMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Tairunnessa Medical College, Gazipur",
     "shortName": "TMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Ibrahim Medical College, Segunbagicha, Dhaka",
     "shortName": "IMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "BGC Trust Medical College, Chittagong",
     "shortName": "BGCTMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Shaheed Suhrawardy Medical College, Dhaka",
     "shortName": "SSMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Enam Medical College, Savar, Dhaka",
     "shortName": "EMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Islami Bank Medical College, Rajshahi",
     "shortName": "IBMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "IBN Sina Medical College, Dhanmondi, Dhaka",
     "shortName": "IBNSMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Central Medical College, Comilla",
     "shortName": "CMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Eastern Medical College, Comilla",
     "shortName": "EMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Khawaja Yunus Ali Medical College, Sirajganj",
     "shortName": "KYAMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Chittagong Maa-O-Shishu Medical College, Chittagong",
     "shortName": "CMOSMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Sylhet Women's Medical College, Sylhet",
     "shortName": "SWMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Nightangle Medical College, Dhaka",
     "shortName": "NMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Southern Medical College, Chittagong",
     "shortName": "SMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Northern International Medical College, Dhanmondi, Dhaka",
     "shortName": "NIMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Uttara Adhunik Medical College, Dhaka",
     "shortName": "UAMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Delta Medical College, Mirpur, Dhaka",
     "shortName": "DMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Ad-din Women's Medical College, Dhaka",
     "shortName": "AWMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Dhaka Community Medical College, Dhaka",
     "shortName": "DCMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "TMSS Medical College, Bogra",
     "shortName": "TMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Anwar Khan Modern Medical College, Dhaka",
     "shortName": "AKMMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Prime Medical College, Rangpur",
     "shortName": "PMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Rangpur Community Hospital Medical College, Rangpur",
     "shortName": "RCHMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Northern Private Medical College, Rangpur",
     "shortName": "NPMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Faridpur Diabetic Association Medical College, Faridpur",
     "shortName": "FDAMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Green Life Medical College, Dhanmondi, Dhaka",
     "shortName": "GLMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Popular Medical College, Dhanmondi, Dhaka",
     "shortName": "PMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "MH Samorita Medical College, Dhaka",
     "shortName": "MHSMSMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Monno Medical College, Manikganj",
     "shortName": "MMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Central International Medical College, Dhaka",
     "shortName": "CIMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Dr. Sirajul Islam Medical College, Dhaka",
     "shortName": "DSIMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Marks Medical College, Mirpur, Dhaka",
     "shortName": "MMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Moulana Bhasani Medical College, Comilla",
     "shortName": "MBMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Ad-din Sakina Medical College, Jessore",
     "shortName": "ASMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Gazi Medical College, Khulna",
     "shortName": "GMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Barind Medical College, Rajshahi",
     "shortName": "BMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "City Medical College, Gazipur",
     "shortName": "CMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Ashiyan Medical College, Gulshan, Dhaka",
     "shortName": "AMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Aichi Medical College, Uttara, Dhaka",
     "shortName": "AMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Bashundhara Ad-din Medical College, Dhaka",
     "shortName": "BAMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Abdul Hamid Medical College & Hospital, Kishoreganj",
     "shortName": "AHMCH",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Bikrampur Bhuiyan's Medical College & Hospital, Munshiganj",
     "shortName": "BBMCH",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Universal Medical College, Dhaka",
     "shortName": "UMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Care Medical College, Mohammadpur, Dhaka",
     "shortName": "CMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Brahmanbaria Medical College, Brahmanbaria",
     "shortName": "BMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Parkview Medical College & Hospital, Sylhet",
     "shortName": "PMCH",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Marine City Medical College & Hospital, Chittagong",
     "shortName": "MCMCH",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Shaheed M. Monsur Ali Medical College, Rajshahi",
     "shortName": "SMMAMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Chattogram International Medical College (CINIC), Chittagong",
     "shortName": "CIMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "US Bangla Medical College, Narayanganj",
     "shortName": "UBMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Ad-din Akij Medical College, Khulna",
     "shortName": "AAMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Monowara Sikder Medical College and Hospital, Sherpur, Sirajganj",
     "shortName": "MSMCH",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Khulna City Medical College, Khulna",
     "shortName": "KCMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "medical"
   },
   {
     "name": "Pioneer Dental College, Dhaka",
     "shortName": "PDC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "University Dental College, Dhaka",
     "shortName": "UDC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Bangladesh Dental College, Dhaka",
     "shortName": "BDC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "City Dental College, Dhaka",
     "shortName": "CDC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Sapporo Dental College, Dhaka",
     "shortName": "SDC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Chittagong International Dental College, Chittagong",
     "shortName": "CIDC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Rangpur Dental College, Rangpur",
     "shortName": "RDC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Update Dental College, Dhaka",
     "shortName": "UDC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Udayan Dental College, Rajshahi",
     "shortName": "UDC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Shaphana Women Dental College, Dhaka",
     "shortName": "SWDC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Mandi Dental College, Dhaka",
     "shortName": "MDC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Sylhet Central Dental College, Sylhet",
     "shortName": "SCDC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Samaj Vittic Medical College Dental Unit, Dhaka",
     "shortName": "SVMCDU",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Marks Medical College Dental Unit, Dhaka",
     "shortName": "MMCDU",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "MH Samorita Medical College Dental Unit, Dhaka",
     "shortName": "MHSMCDU",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Kumudini Medical College Dental Unit, Tangail",
     "shortName": "KMCDU",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Holy Family Red Crescent Medical College Dental Unit, Dhaka",
     "shortName": "HFRCMCDU",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "TMSS-Bogra Medical College Dental Unit",
     "shortName": "TMSS-BMCDU",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Dhaka Community Medical College Dental Unit, Dhaka",
     "shortName": "DCMC",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Community Based Medical College Dental Unit, Mymensingh",
     "shortName": "CBMCDU",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Dhaka National Medical College Dental Unit, Dhaka",
     "shortName": "DNMCDU",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Delta Medical College Dental Unit, Dhaka",
     "shortName": "DMCDU",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Islami Bank Medical College Dental Unit, Rajshahi",
     "shortName": "IBMCDU",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "North East Medical College Dental Unit, Sylhet",
     "shortName": "NEMCDU",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Ibrahim Medical College Dental Unit",
     "shortName": "IMCDU",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   },
   {
     "name": "Khawja Yunus Ali Medical College Dental Unit, Sirajganj",
     "shortName": "KYAMCDU",
-    "institutionType": "medical",
+    "institutionType": "university",
     "category": "private",
     "department": "dental"
   }

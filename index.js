@@ -37,19 +37,12 @@ function getAllSchoolNames() {
   return  getAllSchools().map(school => school.name)
 
 }
-function getAllSchoolEiins() {
-  return getAllSchools().map(school => school.eiin);
-}
 function getAllSchoolByVersion(version) {
   const filterSchool = getAllSchools().filter(item => item.version === version)
   return filterSchool.filter(school => school !== undefined)
 }
-function getAllNameSchoolByVersion(version) {
+function getAllSchoolNameByVersion(version) {
   const filterSchool = getAllSchools().filter(item => item.version === version).map((school)=> school.name)
-  return filterSchool.filter(school => school !== undefined)
-}
-function getAllSchoolEiinByVersion(version) {
-  const filterSchool = getAllSchools().filter(item => item.version === version).map((school)=> school.eiin)
   return filterSchool.filter(school => school !== undefined)
 }
 function getSchoolByEiin(eiin) {
@@ -73,10 +66,6 @@ function getAllCollege(){
 }
 function getAllCollegeNames() {
   return getAllCollege().map(item => item.name)
-}
-
-function getAllCollegeEiins() {
-  return getAllCollege().map(item => item.eiin)
 }
 
 function getCollegeByEiin(eiin) {
@@ -151,17 +140,14 @@ module.exports = {
 
   getAllSchools,
   getAllSchoolNames,
-  getAllSchoolEiins,
   getSchoolByEiin,
   getSchoolByName,
   getAllSchoolByVersion,
-  getAllNameSchoolByVersion,
+  getAllSchoolNameByVersion,
   getSchoolNameByEiin,
-  getAllSchoolEiinByVersion,
 
   getAllCollege,
   getAllCollegeNames,
-  getAllCollegeEiins,
   getCollegeByEiin,
   getCollegeNameByEiin,
   getCollegeByName,
