@@ -1,7 +1,7 @@
 
 # bd-instituition-list@solutya
 
-this is an npm package providing a comprehensive database of all institutes in Bangladesh. Whether you're building an educational app, conducting research, or simply need access to information about schools, colleges, or universities in Bangladesh, this package offers a convenient solution.
+This is an npm package providing a comprehensive database of all institutes in Bangladesh. Whether you're building an educational app, conducting research, or simply need access to information about schools, colleges, or universities in Bangladesh, this package offers a convenient solution.
 
 
 ## Features
@@ -64,7 +64,7 @@ getAllUniNameByDepartment()
 
 
 ## Usage/Examples
-import from package
+Import from package
 ```javascript
 
 import {getAllInstitute,
@@ -533,8 +533,9 @@ function App() {
 The data provided in this npm package is sourced from various publicly available data on the internet, primarily collected from Google search results. We extend our gratitude to the following sources for providing valuable information:
 - Google
 - Bangladesh Ministry of Education
-- National University of Bangladesh
-  We acknowledge the contributions of these entities in making educational data accessible and strive to maintain the accuracy and integrity of the information provided in this package.
+- National University of Bangladesh.
+
+We acknowledge the contributions of these entities in making educational data accessible and strive to maintain the accuracy and integrity of the information provided in this package.
 
 
 ## License
@@ -542,7 +543,7 @@ The data provided in this npm package is sourced from various publicly available
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## 🔗 Links
+## 🔗Social Links
 [![portfolio](https://img.shields.io/badge/facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Solutya)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/solutya/)
