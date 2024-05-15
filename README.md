@@ -1,5 +1,5 @@
 
-# bd-instituition-list@solutya
+# bd-instituition-list-by-solutya
 
 This is an npm package providing a comprehensive database of all institutes in Bangladesh. Whether you're building an educational app, conducting research, or simply need access to information about schools, colleges, or universities in Bangladesh, this package offers a convenient solution.
 
@@ -19,7 +19,7 @@ This is an npm package providing a comprehensive database of all institutes in B
 Install bd-instituition-list@solutya with npm
 
 ```bash
-  npm install bd-instituition-list@solutya
+  npm bd-instituition-list-by-solutya
 ```
 
 ## All Methods
@@ -94,7 +94,7 @@ import {getAllInstitute,
   getAllUniByCategory,
   getAllUniNameByCategory,
   getAllUnisByDepartment,
-  getAllUniNameByDepartment} from 'bd-instituition-list@solutya'
+  getAllUniNameByDepartment} from 'bd-instituition-list-by-solutya'
 ```
 getAllInstitute();
 ```javascript

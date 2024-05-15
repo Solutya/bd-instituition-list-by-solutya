@@ -1,5 +1,5 @@
 {
-  "name": "bd-instituition-list@solutya",
+  "name": "bd-instituition-list-by-solutya",
   "version": "1.0.0",
   "description": "This package includes all bangladeshi educational institution list (School, College, Madrasa, University)",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Solutya/BD-Instituition-List-Package.git"
+    "url": "git+https://github.com/Solutya/bd-instituition-list-by-solutya"
   },
   "keywords": [
     "bd-institution-list",
@@ -26,7 +26,7 @@
   "author": "Solutya Pvt Ltd, Abdullah Ibne Ali, Rashedul Islam Rajon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Solutya/BD-Instituition-List-Package/issues"
+    "url": "https://github.com/Solutya/bd-instituition-list-by-solutya/issues"
   },
-  "homepage": "https://github.com/Solutya/BD-Instituition-List-Package#readme"
+  "homepage": "https://github.com/Solutya/bd-instituition-list-by-solutya#readme"
 }
