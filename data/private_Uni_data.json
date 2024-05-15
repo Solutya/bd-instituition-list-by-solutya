@@ -1,0 +1,1423 @@
+[
+  {
+    "name": "North South University",
+    "shortName": "NSU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "University of Science & Technology Chittagong",
+    "shortName": "USTC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Independent University, Bangladesh",
+    "shortName": "IUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Central Women's University",
+    "shortName": "CWU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "International University of Business Agriculture & Technology",
+    "shortName": "IUBAT",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "International Islamic University Chittagong",
+    "shortName": "IIUC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Ahsanullah University of Science and Technology",
+    "shortName": "AUST",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "American International University-Bangladesh",
+    "shortName": "AIUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "East West University",
+    "shortName": "EWU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "University of Asia Pacific",
+    "shortName": "UAP",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Gono Bishwabidyalay",
+    "shortName": "GB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "The People's University of Bangladesh",
+    "shortName": "PUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Asian University of Bangladesh",
+    "shortName": "AUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Dhaka International University",
+    "shortName": "DIU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Manarat International University",
+    "shortName": "MIU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "BRAC University",
+    "shortName": "BRACU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Bangladesh University",
+    "shortName": "BU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Leading University",
+    "shortName": "LU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "BGC Trust University Bangladesh",
+    "shortName": "BGCTUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Sylhet International University",
+    "shortName": "SIU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "University of Development Alternative",
+    "shortName": "UODA",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Premier University",
+    "shortName": "PU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Southeast University",
+    "shortName": "SEU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Daffodil International University",
+    "shortName": "DIU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Stamford University Bangladesh",
+    "shortName": "SUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "State University of Bangladesh",
+    "shortName": "SUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "City University",
+    "shortName": "CU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Prime University",
+    "shortName": "PU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Northern University Bangladesh",
+    "shortName": "NUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Southern University Bangladesh",
+    "shortName": "SUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Green University of Bangladesh",
+    "shortName": "GUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Pundra University of Science & Technology",
+    "shortName": "PUST",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "World University of Bangladesh",
+    "shortName": "WUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Shanto-Mariam University of Creative Technology",
+    "shortName": "SMUCT",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "The Millennium University",
+    "shortName": "TMU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Eastern University",
+    "shortName": "EU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Metropolitan University",
+    "shortName": "MU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Uttara University",
+    "shortName": "UU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "United International University",
+    "shortName": "UIU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "University of South Asia",
+    "shortName": "USA",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Victoria University of Bangladesh",
+    "shortName": "VUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Bangladesh University of Business & Technology",
+    "shortName": "BUBT",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Presidency University",
+    "shortName": "PU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "University of Information Technology & Sciences",
+    "shortName": "UITS",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Primeasia University",
+    "shortName": "PAU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Royal University of Dhaka",
+    "shortName": "RUD",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "University of Liberal Arts Bangladesh",
+    "shortName": "ULAB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Atish Dipankar University of Science & Technology",
+    "shortName": "ADUST",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Bangladesh Islami University",
+    "shortName": "BIU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "ASA University Bangladesh",
+    "shortName": "ASAUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "East Delta University",
+    "shortName": "EDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "European University of Bangladesh",
+    "shortName": "EUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Varendra University",
+    "shortName": "VU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Hamdard University Bangladesh",
+    "shortName": "HUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "BGMEA University of Fashion & Technology(BUFT)",
+    "shortName": "BUFT",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "North East University Bangladesh",
+    "shortName": "NEUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "First Capital University of Bangladesh",
+    "shortName": "FCUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Ishakha International University, Bangladesh",
+    "shortName": "IIUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Z.H Sikder University of Science & Technology",
+    "shortName": "ZHSUST",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Exim Bank Agricultural University, Bangladesh",
+    "shortName": "EBAUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "North Western University",
+    "shortName": "NWU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Khwaja Yunus Ali University",
+    "shortName": "KYAU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Sonargaon University",
+    "shortName": "SU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Feni University",
+    "shortName": "FU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Britannia University",
+    "shortName": "BU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Port City International University",
+    "shortName": "PCIU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Bangladesh University of Health Sciences",
+    "shortName": "BUHS",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Chittagong Independent University",
+    "shortName": "CIU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Notre Dame University Bangladesh",
+    "shortName": "NDUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Times University, Bangladesh",
+    "shortName": "TUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "North Bengal International University",
+    "shortName": "NBIU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Fareast International University",
+    "shortName": "FIU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Rajshahi Science & Technology University (RSTU)",
+    "shortName": "RSTU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Sheikh Fazilatunnesa Mujib University",
+    "shortName": "SFMU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Cox's Bazar International University",
+    "shortName": "CBIU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Ranada Prasad Shaha University",
+    "shortName": "RPSU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "German University Bangladesh",
+    "shortName": "GUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Global University Bangladesh",
+    "shortName": "GUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "CCN University of Science & Technology",
+    "shortName": "CCNUST",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Bangladesh Army University of Science and Technology(BAUST), Saidpur",
+    "shortName": "BAUST",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Bangladesh Army University of Engineering and Technology (BAUET), Qadirabad",
+    "shortName": "BAUET",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Bangladesh Army International University of Science & Technology(BAIUST) ,Comilla",
+    "shortName": "BAIUST",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "The International University of Scholars",
+    "shortName": "IUS",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Canadian University of Bangladesh",
+    "shortName": "CUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "N.P.I University of Bangladesh",
+    "shortName": "NPIUB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Northern University of Business & Technology, Khulna",
+    "shortName": "NUBTK",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Rabindra Maitree University, Kushtia",
+    "shortName": "RMUK",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "University of Creative Technology, Chittagong",
+    "shortName": "UCTC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Central University of Science and Technology",
+    "shortName": "CUST",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Tagore University of Creative Arts, Uttara, Dhaka, Bangladesh",
+    "shortName": "TUCA",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "University of Global Village",
+    "shortName": "UGV",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Rupayan A.K.M Shamsuzzoha University",
+    "shortName": "RAKMSU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Anwer Khan Modern University",
+    "shortName": "AKMU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "ZNRF University of Management Sciences",
+    "shortName": "ZNRFUMS",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Ahsania Mission University of Science and Technology",
+    "shortName": "AMUST",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Khulna Khan Bahadur Ahsanullah University",
+    "shortName": "KKBAU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Bandarban University",
+    "shortName": "BU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Shah Makhdum Management University, Rajshahi",
+    "shortName": "SMMUR",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Trust University, Barishal",
+    "shortName": "TU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "International Standard University",
+    "shortName": "ISU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "University of Brahmanbaria",
+    "shortName": "UOB",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "University of Skill Enrichment and Technology",
+    "shortName": "USET",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Microland University of Science and Technology",
+    "shortName": "MUST",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "R.T.M Al-Kabir Technical University",
+    "shortName": "RTMAKTU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Sheikh Hasina University of Science and Technology",
+    "shortName": "SHUST",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "IBAIS University",
+    "shortName": "IBAISU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "The University of Comilla",
+    "shortName": "TUC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Queens University",
+    "shortName": "QU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "general"
+  },
+  {
+    "name": "Bangladesh Medical College, Dhanmondi, Dhaka",
+    "shortName": "BMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Samaj Vittic Medical College, Savar Cantt, Dhaka",
+    "shortName": "SVMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Institute of Applied Health Sciences, Chittagong",
+    "shortName": "IAHS",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Jahurul Islam Medical College, Kishoreganj",
+    "shortName": "JIMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Medical College for Women & Hospital, Uttara, Dhaka",
+    "shortName": "MCWH",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Z.H. Sikder Women Medical College, Dhanmondi, Dhaka",
+    "shortName": "ZHSWMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Dhaka National Medical College, Johnson Road, Dhaka",
+    "shortName": "DNMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Community Based Medical College, Mymensingh",
+    "shortName": "CBMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Jalalabad Ragib Rabeya Medical College, Sylhet",
+    "shortName": "JRRMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Shaheed Monsur Ali Medical College, Uttara, Dhaka",
+    "shortName": "SMAMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "North East Medical College, Sylhet",
+    "shortName": "NEMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Holy Family Red Crescent Medical College, Eskaton Garden Road, Dhaka",
+    "shortName": "HFRCMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "International Medical College, Gazipur",
+    "shortName": "IMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "North Bengal Medical College, Sirajganj",
+    "shortName": "NBMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "East West Medical College, Dhaka",
+    "shortName": "EWMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Kumudini Women's Medical College, Tangail",
+    "shortName": "KWMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Tairunnessa Medical College, Gazipur",
+    "shortName": "TMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Ibrahim Medical College, Segunbagicha, Dhaka",
+    "shortName": "IMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "BGC Trust Medical College, Chittagong",
+    "shortName": "BGCTMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Shaheed Suhrawardy Medical College, Dhaka",
+    "shortName": "SSMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Enam Medical College, Savar, Dhaka",
+    "shortName": "EMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Islami Bank Medical College, Rajshahi",
+    "shortName": "IBMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "IBN Sina Medical College, Dhanmondi, Dhaka",
+    "shortName": "IBNSMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Central Medical College, Comilla",
+    "shortName": "CMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Eastern Medical College, Comilla",
+    "shortName": "EMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Khawaja Yunus Ali Medical College, Sirajganj",
+    "shortName": "KYAMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Chittagong Maa-O-Shishu Medical College, Chittagong",
+    "shortName": "CMOSMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Sylhet Women's Medical College, Sylhet",
+    "shortName": "SWMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Nightangle Medical College, Dhaka",
+    "shortName": "NMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Southern Medical College, Chittagong",
+    "shortName": "SMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Northern International Medical College, Dhanmondi, Dhaka",
+    "shortName": "NIMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Uttara Adhunik Medical College, Dhaka",
+    "shortName": "UAMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Delta Medical College, Mirpur, Dhaka",
+    "shortName": "DMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Ad-din Women's Medical College, Dhaka",
+    "shortName": "AWMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Dhaka Community Medical College, Dhaka",
+    "shortName": "DCMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "TMSS Medical College, Bogra",
+    "shortName": "TMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Anwar Khan Modern Medical College, Dhaka",
+    "shortName": "AKMMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Prime Medical College, Rangpur",
+    "shortName": "PMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Rangpur Community Hospital Medical College, Rangpur",
+    "shortName": "RCHMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Northern Private Medical College, Rangpur",
+    "shortName": "NPMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Faridpur Diabetic Association Medical College, Faridpur",
+    "shortName": "FDAMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Green Life Medical College, Dhanmondi, Dhaka",
+    "shortName": "GLMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Popular Medical College, Dhanmondi, Dhaka",
+    "shortName": "PMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "MH Samorita Medical College, Dhaka",
+    "shortName": "MHSMSMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Monno Medical College, Manikganj",
+    "shortName": "MMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Central International Medical College, Dhaka",
+    "shortName": "CIMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Dr. Sirajul Islam Medical College, Dhaka",
+    "shortName": "DSIMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Marks Medical College, Mirpur, Dhaka",
+    "shortName": "MMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Moulana Bhasani Medical College, Comilla",
+    "shortName": "MBMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Ad-din Sakina Medical College, Jessore",
+    "shortName": "ASMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Gazi Medical College, Khulna",
+    "shortName": "GMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Barind Medical College, Rajshahi",
+    "shortName": "BMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "City Medical College, Gazipur",
+    "shortName": "CMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Ashiyan Medical College, Gulshan, Dhaka",
+    "shortName": "AMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Aichi Medical College, Uttara, Dhaka",
+    "shortName": "AMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Bashundhara Ad-din Medical College, Dhaka",
+    "shortName": "BAMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Abdul Hamid Medical College & Hospital, Kishoreganj",
+    "shortName": "AHMCH",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Bikrampur Bhuiyan's Medical College & Hospital, Munshiganj",
+    "shortName": "BBMCH",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Universal Medical College, Dhaka",
+    "shortName": "UMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Care Medical College, Mohammadpur, Dhaka",
+    "shortName": "CMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Brahmanbaria Medical College, Brahmanbaria",
+    "shortName": "BMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Parkview Medical College & Hospital, Sylhet",
+    "shortName": "PMCH",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Marine City Medical College & Hospital, Chittagong",
+    "shortName": "MCMCH",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Shaheed M. Monsur Ali Medical College, Rajshahi",
+    "shortName": "SMMAMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Chattogram International Medical College (CINIC), Chittagong",
+    "shortName": "CIMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "US Bangla Medical College, Narayanganj",
+    "shortName": "UBMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Ad-din Akij Medical College, Khulna",
+    "shortName": "AAMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Monowara Sikder Medical College and Hospital, Sherpur, Sirajganj",
+    "shortName": "MSMCH",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Khulna City Medical College, Khulna",
+    "shortName": "KCMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "medical"
+  },
+  {
+    "name": "Pioneer Dental College, Dhaka",
+    "shortName": "PDC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "University Dental College, Dhaka",
+    "shortName": "UDC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Bangladesh Dental College, Dhaka",
+    "shortName": "BDC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "City Dental College, Dhaka",
+    "shortName": "CDC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Sapporo Dental College, Dhaka",
+    "shortName": "SDC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Chittagong International Dental College, Chittagong",
+    "shortName": "CIDC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Rangpur Dental College, Rangpur",
+    "shortName": "RDC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Update Dental College, Dhaka",
+    "shortName": "UDC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Udayan Dental College, Rajshahi",
+    "shortName": "UDC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Shaphana Women Dental College, Dhaka",
+    "shortName": "SWDC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Mandi Dental College, Dhaka",
+    "shortName": "MDC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Sylhet Central Dental College, Sylhet",
+    "shortName": "SCDC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Samaj Vittic Medical College Dental Unit, Dhaka",
+    "shortName": "SVMCDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Marks Medical College Dental Unit, Dhaka",
+    "shortName": "MMCDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "MH Samorita Medical College Dental Unit, Dhaka",
+    "shortName": "MHSMCDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Kumudini Medical College Dental Unit, Tangail",
+    "shortName": "KMCDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Holy Family Red Crescent Medical College Dental Unit, Dhaka",
+    "shortName": "HFRCMCDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "TMSS-Bogra Medical College Dental Unit",
+    "shortName": "TMSS-BMCDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Dhaka Community Medical College Dental Unit, Dhaka",
+    "shortName": "DCMC",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Community Based Medical College Dental Unit, Mymensingh",
+    "shortName": "CBMCDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Dhaka National Medical College Dental Unit, Dhaka",
+    "shortName": "DNMCDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Delta Medical College Dental Unit, Dhaka",
+    "shortName": "DMCDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Islami Bank Medical College Dental Unit, Rajshahi",
+    "shortName": "IBMCDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "North East Medical College Dental Unit, Sylhet",
+    "shortName": "NEMCDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Ibrahim Medical College Dental Unit",
+    "shortName": "IMCDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  },
+  {
+    "name": "Khawja Yunus Ali Medical College Dental Unit, Sirajganj",
+    "shortName": "KYAMCDU",
+    "institutionType": "university",
+    "category": "private",
+    "department": "dental"
+  }
+]
