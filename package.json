@@ -4,7 +4,7 @@
   "description": "This package includes all bangladeshi educational institution list (School, College, Madrasa, University)",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node lib/test.js"
   },
   "repository": {
     "type": "git",

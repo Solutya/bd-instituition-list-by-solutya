@@ -1,0 +1,710 @@
+[
+    {
+        "eiin": 190001,
+        "name": "CANADIAN TRILLINIUM SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190002,
+        "name": "INTERNATIONAL SCHOOL BANGLADESH",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190003,
+        "name": "HOLY CRESENT INTERNATIONAL SCHOOL & COLLEGE",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190004,
+        "name": "YEAL INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190005,
+        "name": "ST. PETERS SCHOOL OF LONDON",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190006,
+        "name": "INGENIOUS INTERNATIONAL SCHOOL & COLLEGE",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190007,
+        "name": "METHODIST ENGLISH MEDIUM SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190008,
+        "name": "SCHOLASTICA",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190009,
+        "name": "SOUTH BREEZE SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190010,
+        "name": "MASTER MIND ENGLISH MEDIUM SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190011,
+        "name": "SUNBEAMS",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190012,
+        "name": "SYDNEY INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190013,
+        "name": "MANARAT DHAKA INTERNATIONAL COLLEGE",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190014,
+        "name": "THE REDIAN INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190015,
+        "name": "CHEPHALON INTERNATIONAL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190016,
+        "name": "HAPPY TIMES INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190017,
+        "name": "OXFORD INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190018,
+        "name": "SAINT JUDES INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190019,
+        "name": "THE BRITISH SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190020,
+        "name": "MODERN INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190021,
+        "name": "GULSHAN INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190022,
+        "name": "VISION GLOBAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190023,
+        "name": "INTERNATIONAL HOPE SCHOOL BANGLADESH",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190024,
+        "name": "GRACE INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190025,
+        "name": "ACADEMIA",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190026,
+        "name": "SIDDIQUIS INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190027,
+        "name": "GREEN GEMS INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190028,
+        "name": "THE LAURELS",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190029,
+        "name": "ADROIT SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190030,
+        "name": "STRIDE INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190031,
+        "name": "REDIAN INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190032,
+        "name": "BRITANIA INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190033,
+        "name": "GREEN FIELD SPECTRUM SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190034,
+        "name": "HURDCO INTERNATIONAL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190035,
+        "name": "SILVERSTAR SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190036,
+        "name": "DON GRAMMER SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190037,
+        "name": "SIR JOHN WILSON SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190038,
+        "name": "PLAY PEN KINDER CARE",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190039,
+        "name": "LAKEHEAD GRAMMAR SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190040,
+        "name": "William Carey International School",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190041,
+        "name": "LONDON INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190042,
+        "name": "THE RED BRICK SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190043,
+        "name": "NOTA BENE ENGLISH SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190044,
+        "name": "EVERGREEN INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190045,
+        "name": "CANADIAN INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190046,
+        "name": "GREENDALE INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190047,
+        "name": "GEORGE WASHINGTON SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190048,
+        "name": "NEURAL INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190049,
+        "name": "HARVARD INTERNATIONAL SCHOOL & COLLEGE",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190050,
+        "name": "SUMMERFIELD INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190051,
+        "name": "NEW DHAKA INTERNATIONAL SCHOOL & COLLEGE",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190052,
+        "name": "BRITISH STANDARD SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190053,
+        "name": "WEST DHANMONDI INTERNATIONAL SCHOOL (WDIS)",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190054,
+        "name": "HEED INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190055,
+        "name": "REGENT COLLEGE",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190056,
+        "name": "CORDOVA INTERNATIONAL SCHOOL & COLLEGE",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190057,
+        "name": "APPLE TREE  INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190058,
+        "name": "KIDS TUTORIAL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190059,
+        "name": "DPST STS SCHOOL DHAKA",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190060,
+        "name": "THE NEW SCHOOL DHAKA",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190061,
+        "name": "THE AGHA KHAN SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190062,
+        "name": "BANGLADESH INTERNATIONAL TUTORIAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190063,
+        "name": "BARIDHARA SCHOLARS INSTITUTION",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190064,
+        "name": "GRADETION INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190065,
+        "name": "BEACON HOUSE SCHOOL SYSTEM",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190066,
+        "name": "SEA BREEZE INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190067,
+        "name": "DHANMONDI TUTORIAL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190068,
+        "name": "SINGAPORE INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190069,
+        "name": "EBENEZER INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190070,
+        "name": "BIMS COLLEGE",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190071,
+        "name": "BANGLADESH INDIA INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190072,
+        "name": "DREXEL INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190073,
+        "name": "ARCADIA",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190074,
+        "name": "SUNNYDALE",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190075,
+        "name": "MAPPLE LEAF INTERNATION SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190076,
+        "name": "WILLES LITTLE FLOWER SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190077,
+        "name": "CARDIFF INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190078,
+        "name": "ASIAN INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190079,
+        "name": "LOREETO",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190080,
+        "name": "ST. MARY'S INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190081,
+        "name": "WORDBRIDGE SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190082,
+        "name": "BAF SHAHEEN ENGLISH MEDIUM SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190083,
+        "name": "ABDUL KADIR  MOLLA INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190084,
+        "name": "DARLAND INTERNATIONAL SCHOOL & COLLEGE",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190085,
+        "name": "GOLGOTHA ENGLISH MEDIUM SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190086,
+        "name": "KHALEDA RASHID EDUCARE SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190087,
+        "name": "LITTLE MASTERS INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190088,
+        "name": "MIRPUR INTERNATIONAL TUTORIAL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190089,
+        "name": "PARK INTERNATIONAL SCHOOL & COLLEGE",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190090,
+        "name": "AURORA INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190091,
+        "name": "EXCEL ACADEMY",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190092,
+        "name": "SHINING STAR SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190093,
+        "name": "GPH INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190094,
+        "name": "MANCHESTER SCHOOL OB ENGLISH",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190095,
+        "name": "LORDS (An English Medium School)",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190096,
+        "name": "INSIGHT INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190097,
+        "name": "ARABI INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190098,
+        "name": "CAPSTONE SCHOOL DHAKA",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190099,
+        "name": "PRIME BANK ENGLISH MEDIUM SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190100,
+        "name": "CAMBRIAN INTERNATIONAL SCHOOL",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190101,
+        "name": "Canadian International Institute Dhaka",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190102,
+        "name": "Oxford English Medium School & College",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190103,
+        "name": "Kings International School",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190104,
+        "name": "Pledge Harbor International School",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190105,
+        "name": "Bacha English Medium School",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190106,
+        "name": "Cambrian English Medium School",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190107,
+        "name": "Future Foundation School",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190108,
+        "name": "SchoolEdge",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190109,
+        "name": "Canadian Maple International School",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190110,
+        "name": "Sunderland International School",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190111,
+        "name": "Al-Arafah Islamic International School & College",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190112,
+        "name": "Mystic International School",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190113,
+        "name": "NICE School & College",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190115,
+        "name": "Ingenuity International School & College",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190116,
+        "name": "STAR Seed International School",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190117,
+        "name": "Universal Tutorial",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190118,
+        "name": "Lyceum International School",
+        "institutionType": "school",
+        "version": "english"
+    },
+    {
+        "eiin": 190119,
+        "name": "The Radius International School",
+        "institutionType": "school",
+        "version": "english"
+    }
+]
