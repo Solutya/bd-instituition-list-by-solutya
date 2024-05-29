@@ -16,10 +16,10 @@ This is an npm package providing a comprehensive database of all institutes in B
 - Flexible Searching: Search by institution parameters to find the information you need quickly.
 ## Installation
 
-Install bd-instituition-list@solutya with npm
+Install bd-instituition-list-by-solutya with npm
 
 ```bash
-  npm bd-instituition-list-by-solutya
+  npm i bd-instituition-list-by-solutya
 ```
 
 ## All Methods

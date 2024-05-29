@@ -1,11 +1,12 @@
-
-const banSchoolData = require("./data/bd_schoolName_data.json");
-const collegeData = require("./data/bd_collegeName_data.json")
-const madrashaData = require("./data/bd_madrashaName_data.json")
-const govtUniData = require("./data/public_Uni_data.json")
-const engSchoolData = require("./data/english_medium_data.json")
-const pvtUniData = require('./data/private_Uni_data.json')
-const nuData = require('./data/nu_Uni_data.json')
+const readJsonFromZip = require('./unzip')
+// Read JSON data from the zip file
+const banSchoolData = readJsonFromZip('data/bd_schoolName_data.json');
+const collegeData = readJsonFromZip('data/bd_collegeName_data.json');
+const madrashaData = readJsonFromZip('data/bd_madrashaName_data.json');
+const govtUniData = readJsonFromZip('data/public_Uni_data.json');
+const engSchoolData = readJsonFromZip('data/english_medium_data.json');
+const pvtUniData = readJsonFromZip('data/private_Uni_data.json');
+const nuData = readJsonFromZip('data/nu_Uni_data.json');
 
 
 //All institute
