@@ -1,6 +1,6 @@
 {
   "name": "bd-instituition-list-by-solutya",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "This package includes all bangladeshi educational institution list (School, College, Madrasa, University)",
   "main": "index.js",
   "scripts": {
