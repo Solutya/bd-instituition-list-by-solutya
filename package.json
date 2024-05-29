@@ -30,7 +30,6 @@
   },
   "homepage": "https://github.com/Solutya/bd-instituition-list-by-solutya#readme",
   "dependencies": {
-    "adm-zip": "^0.5.12",
-    "path": "^0.12.7"
+    "adm-zip": "^0.5.12"
   }
 }

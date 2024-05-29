@@ -1,4 +1,4 @@
-const readJsonFromZip = require('./unzipping')
+const readJsonFromZip = require('./unzip')
 const banSchoolData = readJsonFromZip('data/bd_schoolName_data.json');
 const collegeData = readJsonFromZip('data/bd_collegeName_data.json');
 const madrashaData = readJsonFromZip('data/bd_madrashaName_data.json');
