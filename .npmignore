@@ -1,2 +1,4 @@
-/lib
+/libit
 /node_modules
+test.js
+/.idea
