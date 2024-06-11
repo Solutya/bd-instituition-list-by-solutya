@@ -100,7 +100,15 @@ getAllInstitute();
 ```javascript
 
 function App() {
-    const data = getAllInstitute();
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllInstitute();
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -118,7 +126,15 @@ getAllInstituteNames();
 ```javascript
 
 function App() {
-    const data = getAllInstituteNames();
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllInstituteNames();
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -134,7 +150,15 @@ getAllInstituteByType('type'); //school, college, university
 ```javascript
 
 function App() {
-    const data = getAllInstituteByType('school');
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllInstituteByType('school')
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -152,7 +176,15 @@ getAllInstituteNameByType('type'); //school, college, university
 ```javascript
 
 function App() {
-    const data = getAllInstituteNameByType('school');
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllInstituteNameByType('school')
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -167,7 +199,15 @@ function App() {
 getAllSchools();
 ```javascript
 function App() {
-    const data = getAllSchools();
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllSchools();
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -185,7 +225,15 @@ function App() {
 getAllSchoolNames();
 ```javascript
 function App() {
-    const data = getAllSchoolNames();
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllSchoolNames();
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -200,7 +248,15 @@ function App() {
 getSchoolByEiin(eiin);
 ```javascript
 function App() {
-    const data = getSchoolByEiin(100012);
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getSchoolByEiin(100012);
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -218,7 +274,15 @@ function App() {
 getSchoolNameByEiin(eiin);
 ```javascript
 function App() {
-    const data = getSchoolNameByEiin(100012);
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getSchoolNameByEiin(100012);
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -233,7 +297,15 @@ function App() {
 getSchoolByName(name);
 ```javascript
 function App() {
-    const data = getSchoolByName('SHAHEED ALTAF MAHMUD SECONDARY SCHOOL');
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getSchoolByName('SHAHEED ALTAF MAHMUD SECONDARY SCHOOL');
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -251,7 +323,15 @@ function App() {
 getAllSchoolByVersion(version); //arabic, bangla, english
 ```javascript
 function App() {
-    const data = getAllSchoolByVersion('arabic');
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllSchoolByVersion('arabic');
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -269,7 +349,15 @@ function App() {
 getAllSchoolNameByVersion(version); //arabic, bangla, english
 ```javascript
 function App() {
-    const data = getAllSchoolNameByVersion('english');
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllSchoolNameByVersion('english');
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -284,7 +372,15 @@ function App() {
 getAllCollege();
 ```javascript
 function App() {
-    const data = getAllCollege();
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllCollege();
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -301,7 +397,15 @@ function App() {
 getAllCollegeNames();
 ```javascript
 function App() {
-    const data = getAllCollegeNames();
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllCollegeNames();
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -316,7 +420,15 @@ function App() {
 getCollegeByEiin(eiin);
 ```javascript
 function App() {
-    const data = getCollegeByEiin(109051);
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await  getCollegeByEiin(109051);
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -333,7 +445,15 @@ function App() {
 getCollegeNameByEiin(eiin);
 ```javascript
 function App() {
-    const data = getCollegeNameByEiin(109051);
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getCollegeNameByEiin(109051);
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -348,7 +468,15 @@ function App() {
 getCollegeByName(name);
 ```javascript
 function App() {
-    const data = getCollegeByName('SHAHAJUDDIN SARKER MODEL HIGHER SECONDARY SCHOOL');
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getCollegeByName('SHAHAJUDDIN SARKER MODEL HIGHER SECONDARY SCHOOL');
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -365,7 +493,15 @@ function App() {
 getAllUnis();
 ```javascript
 function App() {
-    const data = getAllUnis();
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllUnis();
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -384,7 +520,15 @@ function App() {
 getAllUniNames();
 ```javascript
 function App() {
-    const data = getAllUniNames();
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllUniNames();
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -399,7 +543,15 @@ function App() {
 getUniByName(name);
 ```javascript
 function App() {
-    const data = getUniByName('University of Dhaka');
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getUniByName('University of Dhaka');
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -418,7 +570,15 @@ function App() {
 getUniByShortName(shortName);
 ```javascript
 function App() {
-    const data = getUniByShortName('DU');
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getUniByShortName('DU');
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -437,7 +597,15 @@ function App() {
 getUniNameByShortName(shortName);
 ```javascript
 function App() {
-    const data = getUniNameByShortName('DU');
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getUniNameByShortName('DU');
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -452,7 +620,15 @@ function App() {
 getAllUniByCategory(category); //public, private, nu
 ```javascript
 function App() {
-    const data = getAllUniByCategory('public');
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllUniByCategory('public');
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -471,7 +647,15 @@ function App() {
 getAllUniNameByCategory(category);//public, private, nu
 ```javascript
 function App() {
-    const data = getAllUniNameByCategory('private');
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllUniNameByCategory('private');
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -486,7 +670,15 @@ function App() {
 getAllUnisByDepartment(department); //general, engineering, medical, dental
 ```javascript
 function App() {
-    const data = getAllUnisByDepartment('medical');
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllUnisByDepartment('medical');
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
@@ -505,7 +697,15 @@ function App() {
 getAllUniNameByDepartment(department); //general, engineering, medical, dental
 ```javascript
 function App() {
-    const data = getAllUniNameByDepartment('general');
+    const [data, setData] = useState([]);
+
+    useEffect(() => {
+        const getData = async () => {
+            const result = await getAllUniNameByDepartment('general');
+            setData(result);
+        };
+        getData();
+    }, []);
   return (
       <div className="App">
       {data.map((item,index)=>(
